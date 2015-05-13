@@ -1,0 +1,27 @@
+{
+  "name": "bitly_clone",
+  "version": "1.0.0",
+  "description": "bitly_clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cachrisman/bitly_clone.git"
+  },
+  "keywords": [
+    "bitly",
+    "clone"
+  ],
+  "author": "charlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cachrisman/bitly_clone/issues"
+  },
+  "homepage": "https://github.com/cachrisman/bitly_clone",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.3"
+  }
+}
